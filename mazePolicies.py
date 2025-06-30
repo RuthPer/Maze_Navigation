@@ -1,7 +1,7 @@
 """
 Authors: Ruth Perjuste 
 Consulted:
-Date: 2-15-2024
+Date: 10-15-2024
 Purpose: mazePolicies task: policies for helping a robot to solve a maze.
 """
 
