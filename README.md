@@ -1,7 +1,7 @@
 # 🧠 Maze Solver Policies
 
 **Author:** Ruth Perjuste  
-**Date:** February 15, 2024  
+**Date:** Dec 15, 2024  
 
 ## 🔍 Overview
 
